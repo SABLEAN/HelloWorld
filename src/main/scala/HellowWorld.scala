@@ -1,3 +1,1 @@
-object HellowWorld extends App{
-
-}
+object HellowWorld extends App {}

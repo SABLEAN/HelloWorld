@@ -1,5 +1,4 @@
 object Greeting {
-  def greet(): String = {
+  def greet(): String =
     "Hello world !!!"
-  }
 }
